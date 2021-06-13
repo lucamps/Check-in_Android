@@ -70,19 +70,13 @@
     <Button
         android:id="@+id/buttonCheckIn"
         android:layout_width="match_parent"
-        android:layout_height="70dp"
+        android:layout_height="80dp"
         android:text="CHECK-IN"
         android:layout_marginStart="15dp"
         android:layout_marginEnd="15dp"
         android:layout_marginTop="40dp"
         android:layout_below="@id/textViewLongitude"
         android:layout_centerHorizontal="true"/>
-    <Button
-        android:id="@+id/buttonTest"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="test"
-        android:layout_alignParentBottom="true" />
 
 
 </RelativeLayout>
